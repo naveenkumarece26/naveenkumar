@@ -1,2 +1,0 @@
-# naveenkumar
-c coding
